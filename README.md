@@ -1,5 +1,5 @@
 
-<h1 align="center">Serverless 的 100 种玩法</h1>
+# Serverless 的 100 种玩法
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -11,14 +11,15 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些
 
 ## 目录
 
-- [目录](#目录)
-- [应用场景](#应用场景)
-  - [打卡/签到/抽奖](#打卡签到抽奖)
-  - [Onedrive 网盘](#onedrive-网盘)
-  - [图床](#图床)
-  - [其它](#其它)
-- [实践文章](#实践文章)
-- [贡献者](#贡献者)
+- [Serverless 的 100 种玩法](#serverless-的-100-种玩法)
+  - [目录](#目录)
+  - [应用场景](#应用场景)
+    - [打卡/签到/抽奖](#打卡签到抽奖)
+    - [Onedrive 网盘](#onedrive-网盘)
+    - [图床](#图床)
+    - [其它](#其它)
+  - [实践文章](#实践文章)
+  - [贡献者](#贡献者)
 
 ## 应用场景
 
