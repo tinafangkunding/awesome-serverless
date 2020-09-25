@@ -47,7 +47,9 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些
 ### Onedrive 网盘
 
 - [OneDriveFly - 支持部署到 腾讯云函数，阿里函数，Cloudflare 等](https://github.com/Tai7sy/OneDriveFly)  (PHP) by Tai7sy
+
 - [OneManager-php - Onedrive 的管理和索引，多云部署](https://github.com/qkqpttgf/OneManager-php)  (PHP) by qkqpttgf
+
   - [配套教程-腾讯云使用云函数搭建onedrive网盘](http://www.xmengnet.cn/66.html)
   - [配套教程-SCF云函数无服务器部署OneDrive分享网盘](http://www.bttme.com/archives/138.html)
   - [配套教程-腾讯云无服务器云函数搭建onedrive网盘](https://www.nbmao.com/archives/4076)
@@ -61,11 +63,13 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些
 ### 其它
 
 - [续订 Office 365 - E5 Renew](https://github.com/shirok1/e5-api-renew-scf) (Python) by shirok1
+
 - [云函数实现报表自动提交](https://github.com/kngkngtian/AutoReport) (JS) by kngkngtian
 
 ## 实践文章
 
 - [XXT自动签到--云函数签到篇](https://zhuanlan.zhihu.com/p/134004489)（Python） by 范小海
+
 - [某度贴吧签到脚本](https://www.aneu.cn/80.html) (Python) by 知与菌
 
 
