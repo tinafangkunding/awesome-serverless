@@ -5,7 +5,7 @@
 
 想要实现很多功能，体验极客玩法，但是不想为闲置资源付费？
 
-Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些环境，全云端托管运行！
+Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.js 这些环境，全云端托管运行！
 
 本项目搜集了 云函数/Serverless 的 100 种玩法，签到，打卡，云盘，刷金币等各种应用集合。
 
@@ -17,8 +17,10 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些
     - [打卡/签到/抽奖](#打卡签到抽奖)
     - [Onedrive 网盘](#onedrive-网盘)
     - [图床](#图床)
+    - [转码/加解密](#转码加解密)
     - [其它](#其它)
   - [实践文章](#实践文章)
+  - [关联资源推荐](#关联资源推荐)
   - [贡献者](#贡献者)
 
 ## 应用场景
@@ -36,11 +38,23 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些
 
 - [云函数自动签到脚本，支持吾爱破解论坛和哔哩哔哩B站](https://github.com/sanshuifeibing/ExampleForSCF) (Python) by sanshuifeibing
 
-- [天翼云盘签到抽奖](https://github.com/mengshouer/Cloud189Checkin) (Python) by mengshouer
+- [天翼云盘、最终幻想、什么值得买、52pojie 等签到脚本](https://github.com/mengshouer/CheckinBox) (Python) by mengshouer
 
 - [WPS 签到、自动邀请](https://github.com/StoneForests/wpsqiandao) (JS) by StoneForests
 
+- [基于 Serverless 的签到集合，如天气推送，贴吧，腾讯视频等 ](https://github.com/LiteraturePro/Serverless-Python) (Python) by LiteraturePro
+
+- [基于 Serverless 的应用集合，如京东多合一，邮件推送等 ](https://github.com/LiteraturePro/Serverless-Nodejs) (JS) by LiteraturePro
+
 - [sspanel 自动签到](https://github.com/ne-21/sspanel-automaticcheckin) (Python) by ne-21
+
+- [云函数配合乐心健康刷QQ、微信、支付宝步数](https://github.com/ne-21/lx-step) (Python) by ne-21
+
+- [自动上报体温（河北科技大学）](https://github.com/ne-21/fucktiwen) (Python) by ne-21
+
+- [续订 Office 365 - E5 Renew](https://github.com/shirok1/e5-api-renew-scf) (Python) by shirok1
+
+- [云函数实现报表自动提交](https://github.com/kngkngtian/AutoReport) (JS) by kngkngtian
 
 [↑ 返回目录 ↑](#目录)
 
@@ -60,11 +74,16 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些
 
 - [基于腾讯云云函数和对象存储 COS 实现的图床](https://github.com/swy1996/scfimgbed) (JS) by swy1996
 
+### 转码/加解密
+
+- [用于转码/加解密的 Serverless 云函数](https://github.com/copriwolf/serverless-transitcode) (GO) by copriwolf
+
 ### 其它
 
-- [续订 Office 365 - E5 Renew](https://github.com/shirok1/e5-api-renew-scf) (Python) by shirok1
+- [Serverless 实现图片艺术化应用](https://github.com/jiangqizheng/art) (TS & JS) by jiangqizheng
+  - [配套知乎专栏教程](https://zhuanlan.zhihu.com/p/218803108)
 
-- [云函数实现报表自动提交](https://github.com/kngkngtian/AutoReport) (JS) by kngkngtian
+- [自动生成五言绝句机器学习程序示例](https://github.com/vangie/poetry) (Python) by vangie
 
 ## 实践文章
 
@@ -72,9 +91,14 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP 这些
 
 - [某度贴吧签到脚本](https://www.aneu.cn/80.html) (Python) by 知与菌
 
+## 关联资源推荐
+
+[Serverless 框架开发资源汇总](https://github.com/yugasun/awesome-serverless-framework) by yugasun
 
 ## 贡献者
 
 [贡献者名单](https://github.com/tinafangkunding/awesome-serverless/graphs/contributors)
+
+<br>
 
 [↑ 返回目录 ↑](#目录)
