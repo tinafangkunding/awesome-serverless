@@ -93,8 +93,9 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 ## 关联资源推荐
 
-[Serverless 框架开发资源汇总](https://github.com/yugasun/awesome-serverless-framework) by yugasun
-[万物皆可Serverless](https://cloud.tencent.com/developer/column/86207) by 乂乂又又
+- [Serverless 框架开发资源汇总](https://github.com/yugasun/awesome-serverless-framework) by yugasun
+
+- [万物皆可Serverless](https://cloud.tencent.com/developer/column/86207) by 乂乂又又
 
 ## 贡献者
 
