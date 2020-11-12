@@ -44,6 +44,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [基于 Serverless 的签到集合，如天气推送，贴吧，腾讯视频等 ](https://github.com/LiteraturePro/Serverless-Python) (Python) by LiteraturePro
 
+- [基于github actions的京东签到、领京豆](https://github.com/ZHDeveloper/JD_Sign_Action) (JS) by ZHDeveloper
+
 - [基于 Serverless 的应用集合，如京东多合一，邮件推送等 ](https://github.com/LiteraturePro/Serverless-Nodejs) (JS) by LiteraturePro
 
 - [sspanel 自动签到](https://github.com/ne-21/sspanel-automaticcheckin) (Python) by ne-21
