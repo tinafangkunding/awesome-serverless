@@ -89,6 +89,12 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [自动生成五言绝句机器学习程序示例](https://github.com/vangie/poetry) (Python) by vangie
 
+- [基于 serverless 搭建的二维码服务](https://github.com/flc1125/serverless-example/tree/master/tencent-nodejs-qrcode) (JS) by flc1125
+
+- [serverless云函数+腾讯云短信实现短信验证码登录](https://github.com/qcloudsms/smsLogin) (JS) by qcloudsms
+
+- [使用云函数 PHP 7搭建的无服务器 Dplayer 弹幕后端](https://github.com/TennousuAthena/Serverless-DPlayer-PHP) (PHP) by TennousuAthena
+
 ## 实践文章
 
 - [XXT自动签到--云函数签到篇](https://zhuanlan.zhihu.com/p/134004489)（Python） by 范小海
