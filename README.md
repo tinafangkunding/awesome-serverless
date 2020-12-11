@@ -9,6 +9,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 本项目搜集了 云函数/Serverless 的 100 种玩法，签到，打卡，云盘，刷金币等各种应用集合。
 
+如果你是**开发者**，有自己的 Serverless 应用，欢迎提 issue 和 pr，把自己的项目展示出来，造福更多小伙伴！
+
 ## 目录
 
 - [Serverless 的 100 种玩法](#serverless-的-100-种玩法)
