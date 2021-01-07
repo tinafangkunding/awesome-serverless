@@ -86,6 +86,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 ### 其它
 
+- [抖音无水印视频解析小程序](https://github.com/skygongque/MiniProgram-DouyinParse) (JS) by skygongque
+
 - [Serverless 实现图片艺术化应用](https://github.com/jiangqizheng/art) (TS & JS) by jiangqizheng
   - [配套知乎专栏教程](https://zhuanlan.zhihu.com/p/218803108)
 
@@ -97,6 +99,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [使用云函数 PHP 7搭建的无服务器 Dplayer 弹幕后端](https://github.com/TennousuAthena/Serverless-DPlayer-PHP) (PHP) by TennousuAthena
 
+- [运行在腾讯云函数上的无头浏览器](https://github.com/LeiShi1313/scf-headless-chrome) (Python) by LeiShi1313
+
 ## 实践文章
 
 - [XXT自动签到--云函数签到篇](https://zhuanlan.zhihu.com/p/134004489)（Python） by 范小海
@@ -104,6 +108,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 - [某度贴吧签到脚本](https://www.aneu.cn/80.html) (Python) by 知与菌
 
 ## 关联资源推荐
+
+- [Serverless 架构应用开发指南](https://github.com/phodal/serverless) by phodal (主要基于 AWS 的实践教程)
 
 - [Serverless 框架开发资源汇总](https://github.com/yugasun/awesome-serverless-framework) by yugasun
 
