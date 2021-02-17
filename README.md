@@ -34,6 +34,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 - [B 站辅助脚本:投币, 签到, 抽奖等日常操作](https://github.com/happy888888/BiliExp)
   (Python) by happy888888
 
+- [常用网站签到(人人视频、WPS 群集结活动、WPS 每日自动打卡瓜分会员等云函数脚本)](https://github.com/Wenmoux/checkbox) (JS) by Wenmoux
+
 - [基于【腾讯云函数】/【GitHub Actions】/【Docker】的每日签到脚本（支持多账号使用）多平台支持 ](https://github.com/Sitoi/dailycheckin) (Python) by Sitoi
 
 - [爱奇艺、腾讯视频、芒果 tv、网易云音乐等签到](https://github.com/Dingugu/SCF_Sign) (Python) by Delay-L
@@ -86,6 +88,14 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [抖音无水印视频解析小程序](https://github.com/skygongque/MiniProgram-DouyinParse) (JS) by skygongque
 
+- [美团饿了么外卖红包 CPS 小程序项目，使用 uni-app + uniCloud](https://github.com/Samciu/CouponToday) (JS) by Samciu
+
+- [快速找工作 findjob 微信小程序:2020 年 8 月份云开发赛事参赛作品](https://github.com/dotnetcloudbase/findjobtclooud) (C#) by dotnetcloudbase
+
+- [mpvue 版微信小程序个人博客，云函数、云数据库](https://github.com/tujindong/miniblog) (JS) by tujindong
+
+- [基于微信小程序的校园论坛 纯 JS 无后台](https://github.com/BearstOzawa/ourTalk) (JS) by BearstOzawa
+
 ### 图床
 
 - [基于腾讯云云函数和对象存储 COS 实现的图床](https://github.com/swy1996/scfimgbed) (JS) by swy1996
@@ -101,6 +111,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
   - [配套知乎专栏教程](https://zhuanlan.zhihu.com/p/218803108)
 
 - [自动生成五言绝句机器学习程序示例](https://github.com/vangie/poetry) (Python) by vangie
+
+- [QQ 推送今日天气（python+云函数）](https://github.com/xingjiahui/Weather-Push) (Python) by xingjiahui
 
 - [基于 serverless 搭建的二维码服务](https://github.com/flc1125/serverless-example/tree/master/tencent-nodejs-qrcode) (JS) by flc1125
 
