@@ -56,6 +56,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [基于 Serverless 的应用集合，如京东多合一，邮件推送等 ](https://github.com/LiteraturePro/Serverless-Nodejs) (JS) by LiteraturePro
 
+- [爱奇艺每日签到和抽奖](https://github.com/chengquanomg/iqy_checkin) (JS) by chengquanomg
+
 - [sspanel 自动签到](https://github.com/ne-21/sspanel-automaticcheckin) (Python) by ne-21
 
 - [云函数配合乐心健康刷 QQ、微信、支付宝步数](https://github.com/ne-21/lx-step) (Python) by ne-21
@@ -63,6 +65,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 - [续订 Office 365 - E5 Renew](https://github.com/shirok1/e5-api-renew-scf) (Python) by shirok1
 
 - [云函数实现报表自动提交](https://github.com/kngkngtian/AutoReport) (JS) by kngkngtian
+
+- [和彩云自动打卡签到云函数](https://github.com/xuthus5/HeCaiYun) (Go + Python) by xuthus5
 
 [↑ 返回目录 ↑](#目录)
 
@@ -95,6 +99,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 - [mpvue 版微信小程序个人博客，云函数、云数据库](https://github.com/tujindong/miniblog) (JS) by tujindong
 
 - [基于微信小程序的校园论坛 纯 JS 无后台](https://github.com/BearstOzawa/ourTalk) (JS) by BearstOzawa
+
+- [10行代码实现微信小程序支付](https://github.com/qiushi123/cloud-pay) (JS) by qiushi123
 
 ### 图床
 
