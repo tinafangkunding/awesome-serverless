@@ -148,7 +148,7 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [掘金技术专题 | 万物皆可 Serverless 征文汇总](https://juejin.cn/post/6894087576504926215) by 掘金社区
 
-- [Serverless从入门到进阶：架构、原理与实践](https://book.douban.com/subject/35501161/) by [Tinafang](https://github.com/tinafangkunding) and [Yugasun](https://github.com/yugasun)
+- [新书推荐 - Serverless从入门到进阶：架构、原理与实践](https://book.douban.com/subject/35501161/) by [Tinafang](https://github.com/tinafangkunding) and [Yugasun](https://github.com/yugasun)
 
 ## 贡献者
 
