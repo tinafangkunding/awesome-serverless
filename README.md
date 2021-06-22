@@ -1,4 +1,4 @@
-# Serverless 的 100 种玩法
+# Serverless 的 100 种玩法 | Awesome Serverless
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -147,6 +147,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 - [万物皆可 Serverless](https://cloud.tencent.com/developer/column/86207) by 乂乂又又
 
 - [掘金技术专题 | 万物皆可 Serverless 征文汇总](https://juejin.cn/post/6894087576504926215) by 掘金社区
+
+- [Serverless从入门到进阶：架构、原理与实践](https://book.douban.com/subject/35501161/) by [Tinafang](https://github.com/tinafangkunding) and [Yugasun](https://github.com/yugasun)
 
 ## 贡献者
 
