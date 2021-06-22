@@ -38,19 +38,21 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [基于【腾讯云函数】/【GitHub Actions】/【Docker】的每日签到脚本（支持多账号使用）多平台支持 ](https://github.com/Sitoi/dailycheckin) (Python) by Sitoi
 
-- [爱奇艺、腾讯视频、芒果 tv、网易云音乐等签到](https://github.com/Dingugu/SCF_Sign) (Python) by Delay-L
+- [爱奇艺、腾讯视频、芒果 tv、天翼网盘、网易云音乐等签到](https://github.com/Dingugu/SCF_Sign) (Python) by Delay-L
 
 - [B 站、葫芦侠、吾爱破解、Educoder、学习通签到打卡](https://github.com/mkdir700/sign_in) (Python) by mkdir700
 
 - [云函数自动签到脚本，支持吾爱破解论坛和哔哩哔哩 B 站](https://github.com/sanshuifeibing/ExampleForSCF) (Python) by sanshuifeibing
 
-- [天翼云盘、最终幻想、什么值得买、52pojie 等签到脚本](https://github.com/mengshouer/CheckinBox) (Python) by mengshouer
+- [天翼云盘、最终幻想、什么值得买、V2EX, 52pojie 等签到脚本](https://github.com/mengshouer/CheckinBox) (Python) by mengshouer
 
-- [WPS 签到、自动邀请](https://github.com/StoneForests/wpsqiandao) (JS) by StoneForests
+- [云函数实现的 WPS 签到、自动邀请](https://github.com/StoneForests/wpsqiandao) (JS) by StoneForests
 
 - [基于 Serverless 的签到集合，如天气推送，贴吧，腾讯视频等 ](https://github.com/LiteraturePro/Serverless-Python) (Python) by LiteraturePro
 
 - [超完善多合一的京东脚本](https://github.com/lxk0301/jd_scripts) (JS) by lxk0301
+
+- [京东合集](https://github.com/lukesyy/jd_yun) (JS) by lukesyy
 
 - [基于 github actions 的京东签到、领京豆](https://github.com/ZHDeveloper/JD_Sign_Action) (JS) by ZHDeveloper
 
@@ -72,7 +74,7 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 ### Onedrive 网盘
 
-- [OneDriveFly - 支持部署到 腾讯云函数，阿里函数，Cloudflare 等](https://github.com/Tai7sy/OneDriveFly) (PHP) by Tai7sy
+- [OneDriveFly - 支持部署到 腾讯云函数，阿里函数，Cloudflare Google Cloud Function 等](https://github.com/Tai7sy/OneDriveFly) (PHP) by Tai7sy
 
 - [OneManager-php - Onedrive 的管理和索引，多云部署](https://github.com/qkqpttgf/OneManager-php) (PHP) by qkqpttgf
 
@@ -127,6 +129,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 - [云函数 SCF PHP 搭建的无服务器 Dplayer 弹幕后端](https://github.com/TennousuAthena/Serverless-DPlayer-PHP) (PHP) by TennousuAthena
 
 - [运行在腾讯云函数上的无头浏览器](https://github.com/LeiShi1313/scf-headless-chrome) (Python) by LeiShi1313
+
+- [scf-proxy 云函数代理](https://github.com/Sakurasan/scf-proxy) (Go) by Sakurasan
 
 ## 实践文章
 
