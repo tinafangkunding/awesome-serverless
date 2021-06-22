@@ -4,7 +4,7 @@
 
 想要实现很多功能，体验极客玩法，但是不想为闲置资源付费？
 
-Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.js 这些环境，全云端托管运行！
+Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.js Golang JavaScript 等开发环境，全云端托管运行！
 
 本项目搜集了 云函数/Serverless 的 100 种玩法，签到，打卡，云盘，刷金币等各种应用集合。
 
