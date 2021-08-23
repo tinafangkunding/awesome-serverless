@@ -66,6 +66,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [续订 Office 365 - E5 Renew](https://github.com/shirok1/e5-api-renew-scf) (Python) by shirok1
 
+- [续订 Office 365 - E5 Renew 纯Shell免维护版，支持一键部署到腾讯云函数](https://github.com/hansyao/auto_api_call) (Shell) by hansyao
+
 - [云函数实现报表自动提交](https://github.com/kngkngtian/AutoReport) (JS) by kngkngtian
 
 - [和彩云自动打卡签到云函数](https://github.com/xuthus5/HeCaiYun) (Go + Python) by xuthus5
