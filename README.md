@@ -54,15 +54,17 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [京东合集](https://github.com/lukesyy/jd_yun) (JS) by lukesyy
 
+- [京东到家果园庄园](https://github.com/passerby-b/JDDJ) (JS) by passerby-b
+
 - [基于 github actions 的京东签到、领京豆](https://github.com/ZHDeveloper/JD_Sign_Action) (JS) by ZHDeveloper
 
 - [基于 Serverless 的应用集合，如京东多合一，邮件推送等 ](https://github.com/LiteraturePro/Serverless-Nodejs) (JS) by LiteraturePro
 
 - [爱奇艺每日签到和抽奖](https://github.com/chengquanomg/iqy_checkin) (JS) by chengquanomg
 
-- [sspanel 自动签到](https://github.com/ne-21/sspanel-automaticcheckin) (Python) by ne-21
+- [sspanel 自动签到](https://github.com/icrons/ssp-sign) (Python) by icrons
 
-- [云函数配合乐心健康刷 QQ、微信、支付宝步数](https://github.com/ne-21/lx-step) (Python) by ne-21
+- [云函数配合乐心健康刷 QQ、微信、支付宝步数](https://github.com/Ysnsn/lx-step) (Python) by Ysnsn
 
 - [续订 Office 365 - E5 Renew](https://github.com/shirok1/e5-api-renew-scf) (Python) by shirok1
 
