@@ -136,6 +136,10 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 
 - [scf-proxy 云函数代理](https://github.com/Sakurasan/scf-proxy) (Go) by Sakurasan
 
+- [Koa to serverless](https://github.com/inlym/koa-to-serverless) (JS) by inlym
+
+- [绊爱日历项目后端 Serverless API + OSS 部署方案](https://github.com/lwd-temp/kizuna-ai-calendar-api) (PHP) by lwd-temp
+
 ## 实践文章
 
 - [XXT 自动签到--云函数签到篇](https://zhuanlan.zhihu.com/p/134004489)（Python） by 范小海
@@ -145,6 +149,8 @@ Serverless 让你不必买服务器，本地电脑也不用装 Python PHP Node.j
 ## 关联资源推荐
 
 - [Serverless 架构应用开发指南](https://github.com/phodal/serverless) by phodal (主要基于 AWS 的实践教程)
+
+- [AWS Serverless Workshop](https://github.com/aws-samples/aws-serverless-workshops) 包含 web 应用、数据处理、鉴权等多种场景的 demo
 
 - [Serverless 框架开发资源汇总](https://github.com/yugasun/awesome-serverless-framework) by yugasun
 
